@@ -166,6 +166,3 @@ Your support motivates me to build more real-world Data Analytics projects.
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
