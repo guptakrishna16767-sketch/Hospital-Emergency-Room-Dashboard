@@ -136,8 +136,6 @@ Hospital-Emergency-Room-Dashboard/
 - Healthcare Analytics
 - Storytelling with Data
 
----
-
 ## 🔮 Future Enhancements
 
 - Real-time data integration
