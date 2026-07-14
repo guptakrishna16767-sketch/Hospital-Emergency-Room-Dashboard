@@ -154,8 +154,6 @@ Hospital-Emergency-Room-Dashboard/
 
 **Skills:** Python • Power BI • SQL • Excel • DAX • Power Query
 
----
-
 ## ⭐ Support
 
 If you found this project useful, please give this repository a **⭐ Star**.
